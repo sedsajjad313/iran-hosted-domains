@@ -52,6 +52,7 @@ custom_domains = {
         "iauec.ac.ir",
         "iau.ir",
         "hamrahcard.net",
+        "imerat.ir",
     ],
     "remove": [
         "googleapis.com",
